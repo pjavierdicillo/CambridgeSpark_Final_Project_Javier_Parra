@@ -1,4 +1,4 @@
-London Airbnb Data Analysis:
+London Airbnb Market Analysis:
 
 @Author: Javier Parra
 
